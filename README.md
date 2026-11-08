@@ -73,6 +73,24 @@ I'm a **full-stack developer** and Computer Science & Engineering student who li
 
 <table>
   <tr>
+    <td width="55%" valign="middle">
+      <a href="https://github.com/mahamud894/AI-Smart-Campus-Management-System"><img src="assets/smart-campus.png" alt="AI Smart Campus Management System" width="100%" /></a>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🎓 <a href="https://github.com/mahamud894/AI-Smart-Campus-Management-System">AI Smart Campus Management System</a></h4>
+      <p>Academic management and student-success platform with separate student, faculty and admin workspaces. Covers attendance, grades, class routines, notices and campus services, plus a Gemini-powered campus assistant, AI course recommendations and OpenAI-assisted academic risk analysis.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Role_Based_Access-0e7490?style=flat-square" alt="Role-based access" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="assets/resume-analyzer.png" alt="Resumind - AI Resume Analyzer" width="100%" /></a>
       <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">Resumind: AI Resume Analyzer</a></h4>
