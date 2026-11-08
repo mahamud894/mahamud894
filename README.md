@@ -1,16 +1,138 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:14b8a6&height=230&section=header&text=Mahamud%20Hassan&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Mahamud Hassan" width="100%" />
 
-<!--
-**mahamud894/mahamud894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;MERN+%7C+Laravel+%7C+Android+(Kotlin);Building+AI-powered+web+apps;CSE+Student+from+Bangladesh" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:mdmahamudul894@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=14B8A6" alt="Email" /></a>
+  <a href="https://github.com/mahamud894"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=14B8A6" alt="GitHub" /></a>
+  <a href="https://github.com/mahamud894?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-14B8A6?style=for-the-badge&logo=github&logoColor=0f172a" alt="All projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mahamud894&style=for-the-badge&color=0e7490&label=Profile+Views" alt="Profile views" />
+</div>
+
+<br />
+
+## 👋 About Me
+
+I'm a **full-stack developer** and Computer Science & Engineering student who likes taking an idea all the way from database to deployed app. I build web apps with **React, Node.js and Laravel**, Android apps with **Kotlin**, and I enjoy adding a bit of **AI** where it actually helps the user.
+
+- 🎓 **B.Sc. in Computer Science & Engineering**
+- 📍 **Khulna, Bangladesh**
+- 🧑‍💻 **Focus:** full-stack web apps, REST APIs, AI features, clean UI
+- 🌱 **Exploring:** TypeScript everywhere, cloud deployment, Jetpack Compose
+- 💼 **Open to:** junior full-stack / web developer roles, internships and freelance work
+- 📫 **Reach me:** mdmahamudul894@gmail.com
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
+
+**Backend & Databases**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,sqlite&theme=dark" alt="Backend" />
+
+**Mobile, Embedded & Languages**<br>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,c,java,arduino&theme=dark" alt="Mobile and languages" />
+
+**Tools & Deployment**<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,vscode&theme=dark" alt="Tools" />
+
+</div>
+
+## 🚀 Featured Project
+
+<a href="https://github.com/mahamud894/ai-medical-diagnosis-system">
+  <img src="assets/medical-diagnosis.png" alt="AI Medical Diagnosis System" width="100%" />
+</a>
+
+<h3 align="center">🩺 <a href="https://github.com/mahamud894/ai-medical-diagnosis-system">AI Medical Diagnosis System</a></h3>
+
+<p align="center">
+  A full-stack web app that manages patient records and ranks possible conditions from symptoms using a trained <b>Naive Bayes</b> model.
+  Includes JWT authentication, a dashboard, patient management, diagnosis history and a mobile-friendly UI, with CI tests and deployment on Render.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/JWT_Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+<p align="center">
+  <a href="https://ai-medical-diagnosis-system.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=render&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/mahamud894/ai-medical-diagnosis-system"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+## 💼 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="assets/resume-analyzer.png" alt="Resumind - AI Resume Analyzer" width="100%" /></a>
+      <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">Resumind: AI Resume Analyzer</a></h4>
+      <p>Upload a resume with a job description and get an AI score, ATS score and detailed tips. Tracks every application in one dashboard. <i>Team project (team lead and frontend).</i></p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <br><a href="https://ai-resume-analyzer-psi-lime.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamud894/Lawn-Care-Website---Gardener"><img src="assets/lawn-care.png" alt="Gardener - Lawn Care Website" width="100%" /></a>
+      <h4>🌿 <a href="https://github.com/mahamud894/Lawn-Care-Website---Gardener">Gardener: Lawn Care Website</a></h4>
+      <p>Full business website with online booking and live time slots, a gardener portal, an admin panel, bKash/Nagad/card payments and English/Bangla support.</p>
+      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamud894/Dayline-"><img src="assets/dayline.png" alt="Dayline - Android task manager" width="100%" /></a>
+      <h4>🌅 <a href="https://github.com/mahamud894/Dayline-">Dayline: Task &amp; Habit Manager</a></h4>
+      <p>Offline-first Android app for tasks, deadlines and habits, with alarm-style reminders, a smart morning summary and forgiving streaks.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamud894/Line-Following-Robot-Car"><img src="assets/line-follower.png" alt="Line Following Robot Car" width="100%" /></a>
+      <h4>🤖 <a href="https://github.com/mahamud894/Line-Following-Robot-Car">Line Following Robot Car</a></h4>
+      <p>Arduino robot car that follows a black line on its own using IR sensors, PWM motor control and line memory, with rule-based and proportional-control firmware.</p>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Robotics-0e7490?style=flat-square" alt="Robotics" />
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/mahamud894?style=for-the-badge&logo=github&color=14B8A6&labelColor=0f172a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mahamud894?affiliations=OWNER&style=for-the-badge&logo=github&color=14B8A6&labelColor=0f172a" alt="Stars" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=mahamud894&theme=dark&background=0f172a&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&hide_border=true" alt="GitHub streak" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamud894&bg_color=0f172a&color=e2e8f0&line=14b8a6&point=ffffff&area=true&area_color=14b8a6&hide_border=true" alt="Contribution graph" width="100%" />
+</div>
+
+## 🌱 Currently Working On
+
+- 🧠 Making the AI features in my apps more accurate and useful
+- ☁️ Better deployment pipelines with GitHub Actions, Docker and cloud hosting
+- 📱 Polishing Android apps with Jetpack Compose
+
+<div align="center">
+  <br />
+  <i>"Build it, ship it, then make it better."</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0e7490,100:0f172a&height=120&section=footer" alt="footer" width="100%" />
+</div>
