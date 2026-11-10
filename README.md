@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:14b8a6&height=230&section=header&text=Mahamud%20Hassan&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Mahamud Hassan" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;MERN+%7C+Laravel+%7C+Android+(Kotlin);Building+AI-powered+web+apps;CSE+Student+from+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;React+%7C+Laravel+%7C+Node.js;AI+with+Gemini+%26+OpenAI;Android+(Kotlin)+%26+Arduino;CSE+Student+from+Bangladesh" alt="Typing SVG" />
 
   <br />
 
@@ -15,12 +15,13 @@
 
 ## 👋 About Me
 
-I'm a **full-stack developer** and Computer Science & Engineering student who likes taking an idea all the way from database to deployed app. I build web apps with **React, Node.js and Laravel**, Android apps with **Kotlin**, and I enjoy adding a bit of **AI** where it actually helps the user.
+I'm a **full-stack developer** and Computer Science & Engineering student who likes taking an idea all the way from database to deployed app. I build web apps with **React, Laravel and Node.js**, Android apps with **Kotlin**, and I add **AI** where it actually helps the user: a Gemini campus assistant, OpenAI risk analysis, AI resume scoring and a symptom-based diagnosis model.
 
 - 🎓 **B.Sc. in Computer Science & Engineering**
 - 📍 **Khulna, Bangladesh**
-- 🧑‍💻 **Focus:** full-stack web apps, REST APIs, AI features, clean UI
-- 🌱 **Exploring:** TypeScript everywhere, cloud deployment, Jetpack Compose
+- 🧑‍💻 **Focus:** full-stack web apps, REST APIs, role-based systems, AI integrations, clean UI
+- 🚀 **Built so far:** campus management, healthcare, resume analysis, lawn care booking, an Android productivity app and an Arduino robot
+- 🌱 **Exploring:** TypeScript everywhere, CI/CD with GitHub Actions, cloud deployment, Jetpack Compose
 - 💼 **Open to:** junior full-stack / web developer roles, internships and freelance work
 - 📫 **Reach me:** mdmahamudul894@gmail.com
 
@@ -36,6 +37,12 @@ I'm a **full-stack developer** and Computer Science & Engineering student who li
 
 **Mobile, Embedded & Languages**<br>
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,c,java,arduino&theme=dark" alt="Mobile and languages" />
+
+**AI & Integrations**<br>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
 
 **Tools & Deployment**<br>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,vscode&theme=dark" alt="Tools" />
@@ -144,8 +151,9 @@ I'm a **full-stack developer** and Computer Science & Engineering student who li
 
 ## 🌱 Currently Working On
 
-- 🧠 Making the AI features in my apps more accurate and useful
-- ☁️ Better deployment pipelines with GitHub Actions, Docker and cloud hosting
+- 🎓 **AI Smart Campus:** polishing the student, faculty and admin workspaces and the AI risk analysis
+- 🩺 **AI Medical Diagnosis:** improving the diagnosis model and the patient workflow
+- ⚙️ Adding CI with GitHub Actions and Docker-based deployment to my projects
 - 📱 Polishing Android apps with Jetpack Compose
 
 <div align="center">
